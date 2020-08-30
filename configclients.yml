@@ -4,6 +4,3 @@ eureka:
       defaultZone: http://localhost:1000/eureka
     register-with-eureka: true
     fetch-registry: true
-spring:
-  application:
-    name: config-client
